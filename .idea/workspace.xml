@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bba0e14-b1fb-474e-a2ab-c3e5cb019bd2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="3e2f58f7-4d49-44fe-8848-18ba3974bcf2" />
+  <component name="ProjectId" id="1asAOtBkDz8jeL3d8en26d9tI6D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user1\PycharmProjects\cv_practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SVM">
+    <configuration name="BFMatching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cv_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFMatching.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FaceDetection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cv_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceDetection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Homography" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cv_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homography.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SVM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cv_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t22_histogram_equalization1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cv_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t22_histogram_equalization1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SVM" />
+        <item itemvalue="Python.Homography" />
+        <item itemvalue="Python.FaceDetection" />
+        <item itemvalue="Python.BFMatching" />
+        <item itemvalue="Python.t22_histogram_equalization1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bba0e14-b1fb-474e-a2ab-c3e5cb019bd2" name="Default Changelist" comment="" />
+      <created>1587513900734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587513900734</updated>
+      <workItem from="1587513906865" duration="1049000" />
+      <workItem from="1587539382350" duration="11608000" />
+      <workItem from="1587599872739" duration="2654000" />
+      <workItem from="1587627244696" duration="6888000" />
+      <workItem from="1587689756683" duration="17466000" />
+      <workItem from="1587948358855" duration="28802000" />
+      <workItem from="1588123316473" duration="1304000" />
+      <workItem from="1592384463419" duration="3033000" />
+      <workItem from="1592439700276" duration="21167000" />
+      <workItem from="1592535043738" duration="12863000" />
+      <workItem from="1592810293237" duration="8609000" />
+      <workItem from="1592895609734" duration="7540000" />
+      <workItem from="1592972024457" duration="16680000" />
+      <workItem from="1592994757601" duration="9283000" />
+      <workItem from="1593410997447" duration="8770000" />
+      <workItem from="1593500362310" duration="10712000" />
+      <workItem from="1593581555958" duration="12078000" />
+      <workItem from="1593667603672" duration="14697000" />
+      <workItem from="1593756907642" duration="11214000" />
+      <workItem from="1594014588561" duration="11585000" />
+      <workItem from="1594104033907" duration="9420000" />
+      <workItem from="1594178236098" duration="20328000" />
+      <workItem from="1594270643058" duration="14935000" />
+      <workItem from="1594349818944" duration="12479000" />
+      <workItem from="1594373872408" duration="1392000" />
+      <workItem from="1594612199318" duration="8723000" />
+      <workItem from="1594621080505" duration="7155000" />
+      <workItem from="1594694732888" duration="18594000" />
+      <workItem from="1594793260049" duration="5632000" />
+      <workItem from="1594798936272" duration="8996000" />
+      <workItem from="1594815697485" duration="1306000" />
+      <workItem from="1594891296971" duration="1686000" />
+      <workItem from="1594964247028" duration="2918000" />
+      <workItem from="1594970429133" duration="7092000" />
+      <workItem from="1594994005705" duration="10412000" />
+      <workItem from="1595004504207" duration="1759000" />
+      <workItem from="1595134803377" duration="3068000" />
+      <workItem from="1595215978843" duration="19535000" />
+      <workItem from="1595293726484" duration="3530000" />
+      <workItem from="1595402801544" duration="7272000" />
+      <workItem from="1595479005563" duration="11725000" />
+      <workItem from="1595551262527" duration="2161000" />
+      <workItem from="1595554578043" duration="6745000" />
+      <workItem from="1595589016941" duration="3088000" />
+      <workItem from="1595600783896" duration="5423000" />
+      <workItem from="1595640469517" duration="20341000" />
+      <workItem from="1595747731249" duration="603000" />
+      <workItem from="1595907435270" duration="2408000" />
+      <workItem from="1596004383894" duration="8502000" />
+      <workItem from="1596090201038" duration="6817000" />
+      <workItem from="1596101309654" duration="1514000" />
+      <workItem from="1596166571993" duration="4231000" />
+      <workItem from="1596180924896" duration="4537000" />
+      <workItem from="1596432731477" duration="7206000" />
+      <workItem from="1596503054680" duration="722000" />
+      <workItem from="1596529987824" duration="3160000" />
+      <workItem from="1596620973414" duration="537000" />
+      <workItem from="1596626922107" duration="610000" />
+      <workItem from="1596711490226" duration="2127000" />
+      <workItem from="1596870590219" duration="1326000" />
+      <workItem from="1596954884714" duration="5136000" />
+      <workItem from="1596984208409" duration="5336000" />
+      <workItem from="1597028853780" duration="24415000" />
+      <workItem from="1597071964605" duration="6879000" />
+      <workItem from="1597108908284" duration="33451000" />
+      <workItem from="1597166126722" duration="2902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="672" y="205" key="#p5_sobel_laplacian_filter" timestamp="1593765752129">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="672" y="205" key="#p5_sobel_laplacian_filter/0.0.1920.1160@0.0.1920.1160" timestamp="1593765752129" />
+    <state x="672" y="205" key="#t11_threshold" timestamp="1593010516159">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="672" y="205" key="#t11_threshold/0.0.1920.1160@0.0.1920.1160" timestamp="1593010516159" />
+    <state x="667" y="248" key="FileChooserDialogImpl" timestamp="1596870712894">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="667" y="248" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1596870712894" />
+    <state width="1877" height="324" key="GridCell.Tab.0.bottom" timestamp="1597169031844">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1597169031844" />
+    <state width="1877" height="324" key="GridCell.Tab.0.center" timestamp="1597169031844">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="324" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1597169031844" />
+    <state width="1877" height="324" key="GridCell.Tab.0.left" timestamp="1597169031844">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="324" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1597169031844" />
+    <state width="1877" height="324" key="GridCell.Tab.0.right" timestamp="1597169031844">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="324" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1597169031844" />
+    <state x="297" y="82" key="SettingsEditor" timestamp="1595668565639">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="297" y="82" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1595668565639" />
+    <state x="559" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1596870661007">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="559" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1596870661007" />
+    <state x="515" y="316" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1592537956963">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="515" y="316" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1160@0.0.1920.1160" timestamp="1592537956963" />
+    <state x="511" y="243" width="896" height="915" key="search.everywhere.popup" timestamp="1597167509597">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="511" y="243" width="896" height="915" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1597167509597" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cv_practice$p5_trackbar.coverage" NAME="p5_trackbar Coverage Results" MODIFIED="1592465768953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$p7_snap.coverage" NAME="p7_snap Coverage Results" MODIFIED="1597045876560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t35_grabcut.coverage" NAME="t35_grabcut Coverage Results" MODIFIED="1595665891490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t49_SVM.coverage" NAME="t49_SVM Coverage Results" MODIFIED="1597164104275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t46_Cascade_Classifier_face1__1_.coverage" NAME="t46_Cascade_Classifier_face1 (1) Coverage Results" MODIFIED="1597164145486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t22_histogram_equalization2.coverage" NAME="t22_histogram_equalization2 Coverage Results" MODIFIED="1594707984028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t31_Hough_line.coverage" NAME="t31_Hough_line Coverage Results" MODIFIED="1595488148336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t23_histogram_equalization2__1_.coverage" NAME="t23_histogram_equalization2 (1) Coverage Results" MODIFIED="1594716289806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t33_HoughCircle.coverage" NAME="t33_HoughCircle Coverage Results" MODIFIED="1595558647081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t18_contours2.coverage" NAME="t18_contours2 Coverage Results" MODIFIED="1596005368260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$p8_contrast_adjust.coverage" NAME="p8_contrast_adjust Coverage Results" MODIFIED="1594710023392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t3_drawing.coverage" NAME="t3_drawing Coverage Results" MODIFIED="1594272710444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t13_morphology.coverage" NAME="t13_morphology Coverage Results" MODIFIED="1593672926127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t25_histogram_back_project.coverage" NAME="t25_histogram_back_project Coverage Results" MODIFIED="1595227116125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t47_Cascade_Classifier_face2.coverage" NAME="t47_Cascade_Classifier_face2 Coverage Results" MODIFIED="1597059691817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t8_bitwise.coverage" NAME="t8_bitwise Coverage Results" MODIFIED="1592551236335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$practice1.coverage" NAME="practice1 Coverage Results" MODIFIED="1587692707117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t34_watershed.coverage" NAME="t34_watershed Coverage Results" MODIFIED="1595607387922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t9_cvtColor_inRange.coverage" NAME="t9_cvtColor_inRange Coverage Results" MODIFIED="1592814426739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t22_histogram_equalization1.coverage" NAME="t22_histogram_equalization1 Coverage Results" MODIFIED="1597164531542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t30_template_matching2.coverage" NAME="t30_template_matching2 Coverage Results" MODIFIED="1595235481524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t27_Fourier_Transform1.coverage" NAME="t27_Fourier_Transform1 Coverage Results" MODIFIED="1597164368243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t27_Fourier_Transform.coverage" NAME="t27_Fourier_Transform Coverage Results" MODIFIED="1594976512665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$test.coverage" NAME="test Coverage Results" MODIFIED="1593003369299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t15_canny.coverage" NAME="t15_canny Coverage Results" MODIFIED="1593765605857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t40_FAST.coverage" NAME="t40_FAST Coverage Results" MODIFIED="1596443305300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t36_harris_corner_detection.coverage" NAME="t36_harris_corner_detection Coverage Results" MODIFIED="1596011726489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t23_histogram_equalization2.coverage" NAME="t23_histogram_equalization2 Coverage Results" MODIFIED="1595227277766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t43_Brute_Force_Feature_Matching__1_.coverage" NAME="t43_Brute_Force_Feature_Matching (1) Coverage Results" MODIFIED="1596989357183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv$SVM.coverage" NAME="SVM Coverage Results" MODIFIED="1597168824895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$p1_imread_imshow__1_.coverage" NAME="p1_imread_imshow (1) Coverage Results" MODIFIED="1592440295710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$p6_pyramid_image_blending.coverage" NAME="p6_pyramid_image_blending Coverage Results" MODIFIED="1594028148557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t48_knn.coverage" NAME="t48_knn Coverage Results" MODIFIED="1597078975132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t27_Fourier_Transform1__1_.coverage" NAME="t27_Fourier_Transform1 (1) Coverage Results" MODIFIED="1595223828197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t7_add_addWeighted.coverage" NAME="t7_add_addWeighted Coverage Results" MODIFIED="1592547128921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$fft.coverage" NAME="fft Coverage Results" MODIFIED="1594971201287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$imread_imshow.coverage" NAME="imread_imshow Coverage Results" MODIFIED="1592386955134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t6_border.coverage" NAME="t6_border Coverage Results" MODIFIED="1592541902832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t45_Homography.coverage" NAME="t45_Homography Coverage Results" MODIFIED="1597046086780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t32_HoughLineP.coverage" NAME="t32_HoughLineP Coverage Results" MODIFIED="1595490366971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t24_2Dhistogram.coverage" NAME="t24_2Dhistogram Coverage Results" MODIFIED="1594719527884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t46_Cascade_Classifier.coverage" NAME="t46_Cascade_Classifier Coverage Results" MODIFIED="1597051112357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$p5_sobel_laplacian_filter.coverage" NAME="p5_sobel_laplacian_filter Coverage Results" MODIFIED="1594110009098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t21_histogram.coverage" NAME="t21_histogram Coverage Results" MODIFIED="1594619621539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t37_shi_tomashi_corner_detection.coverage" NAME="t37_shi_tomashi_corner_detection Coverage Results" MODIFIED="1596095025513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t11_threshold.coverage" NAME="t11_threshold Coverage Results" MODIFIED="1592986376770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$p4_mouse_callback.coverage" NAME="p4_mouse_callback Coverage Results" MODIFIED="1592464106045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv$FaceDetection.coverage" NAME="FaceDetection Coverage Results" MODIFIED="1597167388088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$p3_drawing.coverage" NAME="p3_drawing Coverage Results" MODIFIED="1592460413312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$morphology.coverage" NAME="morphology Coverage Results" MODIFIED="1587975117843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$filter.coverage" NAME="filter Coverage Results" MODIFIED="1588034064972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$cv_practice.coverage" NAME="cv_practice Coverage Results" MODIFIED="1592540137938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t41_BRIEF.coverage" NAME="t41_BRIEF Coverage Results" MODIFIED="1596955061875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t17_contours1__1_.coverage" NAME="t17_contours1 (1) Coverage Results" MODIFIED="1594189545809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t39_SURF.coverage" NAME="t39_SURF Coverage Results" MODIFIED="1596185868421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$key_test__1_.coverage" NAME="key_test (1) Coverage Results" MODIFIED="1593757143173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t43_Feature_Matching.coverage" NAME="t43_Feature_Matching Coverage Results" MODIFIED="1596987899552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$Python_Console.coverage" NAME="Python Console Coverage Results" MODIFIED="1597157448698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/cv$BFMatching.coverage" NAME="BFMatching Coverage Results" MODIFIED="1597167373171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t17_contours1.coverage" NAME="t17_contours1 Coverage Results" MODIFIED="1596005326056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$practice_2_speckle.coverage" NAME="practice_2_speckle Coverage Results" MODIFIED="1587970789738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t19_matchShapes.coverage" NAME="t19_matchShapes Coverage Results" MODIFIED="1595405939657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t29_template_matching.coverage" NAME="t29_template_matching Coverage Results" MODIFIED="1595230390391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$Python_Console__1_.coverage" NAME="Python Console (1) Coverage Results" MODIFIED="1597159572997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/cv_practice$t38_SIFT.coverage" NAME="t38_SIFT Coverage Results" MODIFIED="1596184739820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t42_ORB.coverage" NAME="t42_ORB Coverage Results" MODIFIED="1597164467299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t14_Sobel_Scharr_Laplacian.coverage" NAME="t14_Sobel_Scharr_Laplacian Coverage Results" MODIFIED="1593759449140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t12_blur.coverage" NAME="t12_blur Coverage Results" MODIFIED="1593501366233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t16_pyramid.coverage" NAME="t16_pyramid Coverage Results" MODIFIED="1594020306499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t20_contour3.coverage" NAME="t20_contour3 Coverage Results" MODIFIED="1594362978212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$threshold.coverage" NAME="threshold Coverage Results" MODIFIED="1587957021379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t31_HoughLine__1_.coverage" NAME="t31_HoughLine (1) Coverage Results" MODIFIED="1595488517922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$p4_filter.coverage" NAME="p4_filter Coverage Results" MODIFIED="1594189791126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t10_transformation.coverage" NAME="t10_transformation Coverage Results" MODIFIED="1597043545224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv$Homography.coverage" NAME="Homography Coverage Results" MODIFIED="1597167659801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t43_Brute_Force_Feature_Matching.coverage" NAME="t43_Brute_Force_Feature_Matching Coverage Results" MODIFIED="1597164489867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$p1_whitespot__1_.coverage" NAME="p1_whitespot (1) Coverage Results" MODIFIED="1592980758400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t2_VideoCapture_VideoWriter.coverage" NAME="t2_VideoCapture_VideoWriter Coverage Results" MODIFIED="1594179815442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t29_template_matching1__1_.coverage" NAME="t29_template_matching1 (1) Coverage Results" MODIFIED="1595234457290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t44_Flann_Feature_Matching.coverage" NAME="t44_Flann_Feature_Matching Coverage Results" MODIFIED="1597038195685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$p3_thresh.coverage" NAME="p3_thresh Coverage Results" MODIFIED="1594108251574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t17_contours.coverage" NAME="t17_contours Coverage Results" MODIFIED="1594113599572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$p2_VideoCapture_VideoWriter.coverage" NAME="p2_VideoCapture_VideoWriter Coverage Results" MODIFIED="1592446700393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t22_histogram_equalization.coverage" NAME="t22_histogram_equalization Coverage Results" MODIFIED="1594702566612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t26_histogram_back_project.coverage" NAME="t26_histogram_back_project Coverage Results" MODIFIED="1594892806710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cv_practice$t28_Fourier_Transform2.coverage" NAME="t28_Fourier_Transform2 Coverage Results" MODIFIED="1595225732299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
